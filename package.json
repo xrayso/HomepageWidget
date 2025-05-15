@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jszip": "^3.10.1",
+    "node-fetch": "^2.7.0",
+    "papaparse": "^5.5.2"
+  }
+}
